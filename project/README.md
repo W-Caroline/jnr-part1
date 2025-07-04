@@ -69,6 +69,10 @@ cp .env.example .env.local
 npm run dev
 ```
 
+Netlify link to project prototype.
+
+https://legendary-pasca-d94f4f.netlify.app/
+
 ## Environment Setup
 
 ### Required Services
